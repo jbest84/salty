@@ -1,4 +1,4 @@
 base:
-  'os:Windows':
-    - match: grain
-    - jenkins
+  '*':
+    - vim
+    - users
